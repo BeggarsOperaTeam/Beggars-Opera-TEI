@@ -321,7 +321,7 @@ two hyphens.</p>
                         <placeName notBefore="1827">Marble Arch</placeName>
                         <location>
                             <geo>51.51318 -0.1599</geo>
-                            <desc>prisoners brought from Newgate Prison were hanged at Tyburn Tree
+                            <desc>pprisoners brought from Newgate Prison were hanged at Tyburn Tree--with Tree as a euphemism for the gallows--
                                 in public executions</desc>
                         </location>
                     </place>
@@ -331,7 +331,7 @@ two hyphens.</p>
                         <placeName>Mary-bone</placeName>
                         <location>
                             <geo>51.51887 -0.14989</geo>
-                            <desc>a sporting and gambling district</desc>
+                            <desc>>a fashionable district newly developed during Gay's time, known for sporting and gambling</desc>
                         </location>
                     </place>
                     <place xml:id="King">
