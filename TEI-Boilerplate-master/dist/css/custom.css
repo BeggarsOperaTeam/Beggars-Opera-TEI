@@ -1,0 +1,168 @@
+/* Place project-specific CSS here */
+
+ 
+#teibpToolbox {
+    
+    display: none;
+}
+
+table {
+    
+    table-layout: fixed;
+    display: block;
+
+}
+
+row {
+    display: table-row;
+}
+
+cell {
+  display: table-cell;
+  padding: 1em 1.5em 1em 1em;
+  border: 1px dotted #AAA;
+  width: 100%;
+  
+  
+  
+}
+
+
+
+castItem > role {
+    
+        /*  padding: 10px 40px 10px 40px;
+        text-align: left;
+        margin: 50px; */
+        
+  box-sizing: content-box;
+  width: 100%;
+  height: 100px;
+  padding: 1px 1px 1px 1px;   
+  border: 1px solid blue;
+  text-align: left;
+
+
+        
+}
+
+castItem > actor {
+    
+   /*   padding: 10px 40px 10px 40px;
+    text-align: left;
+    margin: 50px; */
+    
+  box-sizing: content-box;
+  width: 100%;
+  height: 100px;
+  padding: 1px 1px 1px 1px;  
+  border: 1px solid blue;
+  text-align: left;
+}
+
+
+/*  
+table {
+  border-collapse: separate;
+  border-spacing: 2px;
+  table-layout: fixed;
+  display: block;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-size: 12pt;
+  
+ 
+}
+*/  
+
+ 
+/*  
+.table-border {
+ 
+  border: 1px dotted #AAA; 
+}
+
+cell {
+  display: table-cell;
+  padding: 1em 1.5em 1em 1em;
+ 
+  border: 1px dotted #AAA;
+  
+  
+  
+}
+
+row {
+  display: table-row;
+}
+
+*/
+ 
+/* Why is this selector "TEI table" instead of just "table"? */
+TEI table {
+ /*   table-layout: fixed;
+  display: block;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-size: 12pt; */
+  
+
+}
+
+.center.table{
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+table > head {
+  text-align: center;
+}
+
+
+teiHeader {
+    
+    text-align: center;  
+
+}
+
+
+epigraph {
+    
+    text-align: center;
+}
+
+
+
+
+
+/*  
+table {
+          margin: 0;
+          padding: 0;
+          border: 0;
+          outline: 0;
+          font-size: 100%;
+          vertical-align: baseline;
+          background: transparent;
+        }
+        */
+
+/* 
+TEI table {
+    
+    margin-left: 35%;
+    margin-right: 15%;
+    width: 50%;
+    
+    
+    
+}
+ 
+  
+*/
+
+
+
+     
+     
+
